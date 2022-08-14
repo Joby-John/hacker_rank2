@@ -23,7 +23,7 @@ class Result
 
     public static void miniMaxSum(List<int> arr)
     {
-        int[] sum = new int[5];
+        double [] sum = new double[5];
         for (int i = 0; i < 5; i++)
         {
             for (int j = 0; j < 5; j++)
